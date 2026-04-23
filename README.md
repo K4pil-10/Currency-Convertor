@@ -11,7 +11,7 @@
   <li> Real-time exchange rate fetching</li>
   <li> Clean and minimal UI</li>
   <li>Easy-to-use dropdown with flags</li>
-  <li>⚡ Instant results</li>
+  <li>Instant results</li>
   <li>"Get Exchange Rate" button</li>
 </ul>
 
