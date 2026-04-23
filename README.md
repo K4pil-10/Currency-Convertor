@@ -1,23 +1,28 @@
-💱 Currency Converter
+<h1> Currency Converter</h1>
 
-A clean and simple Currency Converter Web App that allows users to convert currencies in real-time with an intuitive interface.
+<p>A clean and simple Currency Converter Web App that allows users to convert currencies in real-time with an intuitive interface.</p>
 
-🌟 Preview
+<h2>Preview</h2>
+<p>Example: 1 USD = 144.96 NPR</p>
 
-Example:
-1 USD = 144.96 NPR
+<h2> Features</h2>
+<ul>
+  <li> Convert between currencies (e.g., USD ➝ NPR)</li>
+  <li> Real-time exchange rate fetching</li>
+  <li> Clean and minimal UI</li>
+  <li>Easy-to-use dropdown with flags</li>
+  <li>⚡ Instant results</li>
+  <li>"Get Exchange Rate" button</li>
+</ul>
 
-🚀 Features
-🌍 Convert between currencies (e.g., USD ➝ NPR)
-🔄 Real-time exchange rate fetching
-💻 Clean and minimal UI
-🎯 Easy-to-use dropdown selection with country flags
-⚡ Instant conversion results
-🔘 “Get Exchange Rate” button for updated values
+<h2> Tech Stack</h2>
+<ul>
+  <li>HTML – Structure</li>
+  <li>CSS – Styling</li>
+  <li>JavaScript – Logic & API</li>
+</ul>
 
-🛠️ Tech Stack
-HTML – Structure
-CSS – Styling & layout
-JavaScript – Logic & API handling
-
-URL : <a href="https://currency-kbc.vercel.app/">https://currency-kbc.vercel.app/</a>
+<h2> Live App</h2>
+<a href="https://currency-kbc.vercel.app/" target="_blank">
+  Open Currency Converter
+</a>
